@@ -58,6 +58,14 @@ export default function About() {
             >
               LinkedIn ↗
             </a>
+              <a
+              href={personal.social.leetcode}
+              target="_blank"
+              rel="noreferrer"
+              className="font-mono text-xs border border-border text-slate-400 hover:border-accent hover:text-white px-4 py-2 rounded-lg transition-all duration-200"
+            >
+              Leetcode ↗
+            </a>
           </div>
         </motion.div>
 
