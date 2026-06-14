@@ -19,6 +19,7 @@ export const personal = {
     github: 'https://github.com/Prajjaval08',
     linkedin: 'https://linkedin.com/in/prajaval-pandey-583423234',
     leetcode: 'https://leetcode.com/u/PRAJJAVAL',
+    twitter: "https://x.com/Prajjaval_p07"
   },
 }
 
